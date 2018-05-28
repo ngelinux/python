@@ -1,0 +1,80 @@
+-Physical Drive in Port 1I Box 1 Bay 1
+Status   OK
+Serial Number W4711RNH0000E8092NYJ
+Model MM1000JFJTH
+Media Type  HDD
+Capacity  1000 GB
+Location  Port 1I Box 1 Bay 1
+Firmware Version  HPD2
+Drive Configuration Spare
+Encryption Status Not Encrypted
+-Physical Drive in Port 1I Box 1 Bay 2
+Status   OK
+Serial Number W47124650000E8097VWH
+Model MM1000JFJTH
+Media Type  HDD
+Capacity  1000 GB
+Location  Port 1I Box 1 Bay 2
+Firmware Version  HPD2
+Drive Configuration Spare
+Encryption Status Not Encrypted
+-Physical Drive in Port 1I Box 1 Bay 3
+Status   OK
+Serial Number W47127SG0000E8092MKM
+Model MM1000JFJTH
+Media Type  HDD
+Capacity  1000 GB
+Location  Port 1I Box 1 Bay 3
+Firmware Version  HPD2
+Drive Configuration Configured
+Encryption Status Encrypted
+-Physical Drive in Port 1I Box 1 Bay 4
+Status   OK
+Serial Number W4711S2Q0000E8097X4N
+Model MM1000JFJTH
+Media Type  HDD
+Capacity  1000 GB
+Location  Port 1I Box 1 Bay 4
+Firmware Version  HPD2
+Drive Configuration Configured
+Encryption Status Encrypted
+-Physical Drive in Port 2I Box 1 Bay 5
+Status   OK
+Serial Number W4711S8W0000E8097VF0
+Model MM1000JFJTH
+Media Type  HDD
+Capacity  1000 GB
+Location  Port 2I Box 1 Bay 5
+Firmware Version  HPD2
+Drive Configuration Configured
+Encryption Status Encrypted
+-Physical Drive in Port 2I Box 1 Bay 6
+Status   OK
+Serial Number W4711SL90000E8097X72
+Model MM1000JFJTH
+Media Type  HDD
+Capacity  1000 GB
+Location  Port 2I Box 1 Bay 6
+Firmware Version  HPD2
+Drive Configuration Configured
+Encryption Status Encrypted
+-Physical Drive in Port 2I Box 1 Bay 7
+Status   OK
+Serial Number W4711S3S0000E8097WHS
+Model MM1000JFJTH
+Media Type  HDD
+Capacity  1000 GB
+Location  Port 2I Box 1 Bay 7
+Firmware Version  HPD2
+Drive Configuration Configured
+Encryption Status Encrypted
+-Physical Drive in Port 2I Box 1 Bay 8
+Status   OK
+Serial Number W47127Q90000E8092NLE
+Model MM1000JFJTH
+Media Type  HDD
+Capacity  1000 GB
+Location  Port 2I Box 1 Bay 8
+Firmware Version  HPD2
+Drive Configuration Configured
+Encryption Status Encrypted
